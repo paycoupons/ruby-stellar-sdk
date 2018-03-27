@@ -13,3 +13,6 @@
 *.a
 mkmf.log
 /spec/config.yml
+
+# Ignore RubyMine settings which are individual for every developer.
+.idea/**/*
